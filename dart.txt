@@ -26,7 +26,10 @@ int b = a++;
   var output = num1~/num2;
   print(output);
   
-  
+  var no1 = 4;
+  var no2 = 3;
+  var no3 = no1%no2;
+  print(no3);
   
 
   
