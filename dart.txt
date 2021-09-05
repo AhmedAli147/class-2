@@ -1,0 +1,37 @@
+void main() {
+int a = 1;
+int b = a++;
+ print(b); 
+  
+  
+  int c = 2;
+  int d = ++c;
+  print(d);
+  
+  int e = 3;
+  int f = e--;
+  print(f);
+  
+  int z = 10;
+  int x = --z;
+  print(x);
+  
+  var abc = 5;
+  var xyz = 10;
+  var result = xyz/abc;
+  print(result);
+  
+  var num1 = 40;
+  var num2 = 50;
+  var output = num1~/num2;
+  print(output);
+  
+  
+  
+
+  
+  
+  
+}
+  
+
