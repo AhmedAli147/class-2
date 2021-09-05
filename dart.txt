@@ -30,7 +30,12 @@ int b = a++;
   var no2 = 3;
   var no3 = no1%no2;
   print(no3);
-  
+
+ int n1 = 10;
+ int n2 = 20;
+int n3 = n1+n2;
+print(n3);
+   
 
   
   
