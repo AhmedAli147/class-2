@@ -35,6 +35,9 @@ int b = a++;
  int n2 = 20;
 int n3 = n1+n2;
 print(n3);
+
+var name = Ahmed Ali;
+print (name);
    
 
   
